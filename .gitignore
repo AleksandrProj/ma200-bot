@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+venv
+__pycache__
+core/settings_test.py
+files/*.csv
+files_for_server
